@@ -1,0 +1,22 @@
+﻿  main.cpp
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(30,16): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(39,16): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(49,16): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(56,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(66,16): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(317,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(351,18): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(359,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(382,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(390,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(418,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(434,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(442,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(450,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(458,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(466,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(546,19): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(551,17): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(552,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Basic\BookDatabase\BookDatabase\main.cpp(767,17): warning C4018: '<': signed/unsigned mismatch
+  BookDatabase.vcxproj -> D:\C++ Basic\BookDatabase\Debug\BookDatabase.exe
